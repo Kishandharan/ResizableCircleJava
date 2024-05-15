@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;pkg1.ResizableCircle&apos; to &apos;Resizable&apos;&#x0D;&#x0A;- Original project: &apos;ResizableCircle&apos;&#x0D;&#x0A;- Original element: &apos;pkg1.ResizableCircle&apos;&#x0D;&#x0A;- Renamed element: &apos;pkg1.Resizable&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ResizableCircle&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;pkg1{ResizableCircle.java[ResizableCircle" matchStrategy="1" name="Resizable" qualified="false" references="true" similarDeclarations="false" stamp="1715735526663" textual="false" version="1.0"/>
-</session>
